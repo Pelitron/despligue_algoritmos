@@ -1,0 +1,14 @@
+beautifulsoup4
+contractions
+joblib
+mlflow
+nltk
+num2words
+numpy
+optuna
+pandas
+pyspellchecker
+pyngrok
+scikit-learn
+scipy
+tqdm
